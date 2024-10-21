@@ -1,0 +1,22 @@
+in terminal to set user name
+git config --global user.name"Krishna Gupta"
+
+in terminal to set user email
+git config --global user.email"kg0092387@gamil.com"
+
+and see the data
+git config --list
+
+we can copy the git code in owr code user clone method
+cloning a repository in out local machine
+git clone 1<-some lint ->
+
+status-get display the state of the code
+git status
+
+
+for change use this method
+
+1.untraked :new files that git doesn't yet track
+2.tracked : files that git is tracking
+3.modified : changed
