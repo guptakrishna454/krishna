@@ -26,3 +26,5 @@ for change use this method
 ADD and COMMIT
 1.add : to add the file in git use git add .file name and add all the file in use git add .
 2.commit : to commit the file use git commit -m "message" and add the message in
+3.push : to push the file use git push origin branch name
+
