@@ -28,3 +28,7 @@ ADD and COMMIT
 2.commit : to commit the file use git commit -m "message" and add the message in
 3.push : to push the file use git push origin branch name
 
+after pust we can pull and merge the file 
+set up : git branch --set-upstream-to=origin/main main
+pull : git pull origin main
+
