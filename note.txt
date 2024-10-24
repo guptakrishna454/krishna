@@ -1,0 +1,34 @@
+in terminal to set user name
+git config --global user.name"Krishna Gupta"
+
+in terminal to set user email
+git config --global user.email"kg0092387@gamil.com"
+
+and see the data
+git config --list
+
+we can copy the git code in owr code user clone method
+cloning a repository in out local machine
+git clone 1<-some lint ->
+
+status-get display the state of the code
+git status
+
+
+for change use this method
+
+1.untraked : new files that git doesn't yet track
+2.tracked  : files that git is tracking
+3.modified : changed
+4.staged   : file ready to committed
+
+
+ADD and COMMIT
+1.add : to add the file in git use git add .file name and add all the file in use git add .
+2.commit : to commit the file use git commit -m "message" and add the message in
+3.push : to push the file use git push origin branch name
+
+after pust we can pull and merge the file 
+set up : git branch --set-upstream-to=origin/main main
+pull : git pull origin main
+
